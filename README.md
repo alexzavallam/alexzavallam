@@ -1,5 +1,5 @@
 <h1>💬 Quien soy?</h1>
-# Acá voy 📝 !!!
+## Acá voy 📝 !!!
 
 📸 Soy fotografo de profesion y 🎥 filmmaker.
 Me gusta el cine 🎞 

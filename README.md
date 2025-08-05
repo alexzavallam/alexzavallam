@@ -1,4 +1,4 @@
-# Quien soy?
+💬 # Quien soy?
 
 📸 Soy fotografo de profesion y 🎥 filmmaker.
 Me gusta el cine 🎞 

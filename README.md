@@ -1,7 +1,8 @@
 # Quien soy?
 
 📸 Soy fotografo de profesion y 🎥 filmmaker.
-Me gusta el cine 🎞 y los viajes 🌎 complementados con la gastronomia🍻
+Me gusta el cine 🎞 
+Los viajes 🌎 complementados con la gastronomia🍻
 
 Ahora estoy aprendiendo de programación 💻.
 Espero aprovechar esta oportunidad de aprendizaje y poder aplicarla en algun proyecto.
